@@ -7,7 +7,7 @@ class Node{
     }
 }
 
-class LinkedList{
+export default class LinkedList{
     /**
      * A singly linked list of nodes supporting adding, removing, 
      */
